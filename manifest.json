@@ -1,0 +1,7 @@
+{
+  "type": "plugin",
+  "runner": "node",
+  "owner": "dimasbotyara",
+  "name": "calculator",
+  "revision": 1
+}
