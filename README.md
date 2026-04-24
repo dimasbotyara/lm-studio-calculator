@@ -1,5 +1,7 @@
 # Calculator Plugin for LM Studio
 
+📥 The plugin is available for download on the [LM Studio Hub](https://lmstudio.ai/dimasbotyara/calculator).
+
 A scientific calculator plugin for LM Studio that gives models reliable math capabilities.
 
 ## Features
